@@ -1,0 +1,12 @@
+span{
+    border: 1px solid red;
+    padding: 10px 20px;
+    line-height: 100px;
+}
+.ib{
+    display: inline-block;
+}
+body{
+    border: 1px solid blue;
+    padding: 20px;
+}
